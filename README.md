@@ -2,8 +2,8 @@
 
 fn60: use fn key to extend 60% keyboard easily
 
-- `capslock` → `ctrl`
-- key to the right of `space` → `fn`
+- capslock → ctrl
+- key to the right of space(right command) → fn
     
     
     | fn +  | → |
@@ -13,4 +13,4 @@ fn60: use fn key to extend 60% keyboard easily
     | [ ] | home end |
     | 1 .. 9 0 - =  | f1 .. f9 f10 f11 f12 |
     | esc | ` |
-- ``` → `esc`
+- ` → esc
