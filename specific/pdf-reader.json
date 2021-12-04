@@ -51,12 +51,12 @@
       ]
     },
     {
-      "description": "(PRP)Map q, a to page up, page down",
+      "description": "(PRP)Map e, d to page up, page down",
       "manipulators": [
         {
           "type": "basic",
           "from": {
-            "key_code": "q"
+            "key_code": "e"
           },
           "to": [
             {
@@ -75,7 +75,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "a"
+            "key_code": "d"
           },
           "to": [
             {
@@ -94,12 +94,12 @@
       ]
     },
     {
-      "description": "(PRP)Map e, d to prev, next",
+      "description": "(PRP)Map q, a to prev, next",
       "manipulators": [
         {
           "type": "basic",
           "from": {
-            "key_code": "e"
+            "key_code": "q"
           },
           "to": [
             {
@@ -119,7 +119,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "d"
+            "key_code": "a"
           },
           "to": [
             {
