@@ -139,7 +139,7 @@
       ]
     },
     {
-      "description": "(PRP)Map shift + e, d to back, forward",
+      "description": "(PRP)Map shift + e, r to back, forward",
       "manipulators": [
         {
           "type": "basic",
@@ -171,7 +171,7 @@
         {
           "type": "basic",
           "from": {
-            "key_code": "d",
+            "key_code": "r",
             "modifiers": {
               "mandatory": [
                 "left_shift"
